@@ -71,3 +71,5 @@ streamlit run ai_partner.py
 2. 关键注意点：替换本地图片路径、妥善保管 API 密钥、注意会话数据的本地存储位置；
 3. 功能扩展建议：如需自定义会话名称、切换大模型，需修改代码中对应的变量/参数。
 
+##参考视频：https://www.bilibili.com/video/BV1sHU9BmEne/?spm_id_from=333.1387.collection.video_card.click&vd_source=5e3e17a018c40e1c299ecae04481538c
+    https://www.bilibili.com/video/BV1sHU9BmEne/?spm_id_from=333.1387.collection.video_card.click&vd_source=5e3e17a018c40e1c299ecae04481538c
